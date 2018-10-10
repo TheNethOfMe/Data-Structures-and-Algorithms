@@ -5776,11 +5776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\BinarySearch\\BinarySearchTest\\BinarySearchTest.csproj",
+      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\binarySearch\\BinarySearchTest\\BinarySearchTest.csproj",
       "projectName": "BinarySearchTest",
-      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\BinarySearch\\BinarySearchTest\\BinarySearchTest.csproj",
+      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\binarySearch\\BinarySearchTest\\BinarySearchTest.csproj",
       "packagesPath": "C:\\Users\\nethw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\BinarySearch\\BinarySearchTest\\obj\\",
+      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\binarySearch\\BinarySearchTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5799,8 +5799,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {
-              "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\BinarySearch\\BinarySearch\\BinarySearch.csproj"
+            "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\binarySearch\\BinarySearch\\BinarySearch.csproj": {
+              "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\binarySearch\\BinarySearch\\BinarySearch.csproj"
             }
           }
         }
