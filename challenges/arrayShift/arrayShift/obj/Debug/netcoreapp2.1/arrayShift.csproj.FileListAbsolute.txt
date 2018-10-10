@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\bin\Debug\netcoreapp2.1\arrayShift.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\bin\Debug\netcoreapp2.1\arrayShift.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\bin\Debug\netcoreapp2.1\arrayShift.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\bin\Debug\netcoreapp2.1\arrayShift.dll
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\bin\Debug\netcoreapp2.1\arrayShift.pdb
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.dll
+C:\Users\nethw\Code\401\DSA\challenges\arrayShift\arrayShift\obj\Debug\netcoreapp2.1\arrayShift.pdb
