@@ -2,3 +2,4 @@
 
 ## Table of Contents
 
+[Challenge: Array Shift](./challenges/arrayShift)
