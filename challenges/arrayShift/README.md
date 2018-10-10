@@ -13,4 +13,4 @@ Because C# doesn't allow for changing the length of the array, a new array must 
 
 ## Solution
 
-![alt text](../../assets/arrayShift.jpg "Shift Array Solution")
+![alt text](../../assets/array_shift.jpg "Shift Array Solution")

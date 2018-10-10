@@ -1,0 +1,17 @@
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearchTest.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearchTest.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearchTest.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearchTest.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearchTest.pdb
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearch.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\bin\Debug\netcoreapp2.1\BinarySearch.pdb
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearchTest\obj\Debug\netcoreapp2.1\BinarySearchTest.pdb
