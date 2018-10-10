@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\bin\Debug\netcoreapp2.1\BinarySearch.pdb
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.dll
+C:\Users\nethw\Code\401\DSA\challenges\BinarySearch\BinarySearch\obj\Debug\netcoreapp2.1\BinarySearch.pdb
