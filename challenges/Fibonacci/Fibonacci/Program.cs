@@ -2,7 +2,7 @@
 
 namespace Fibonacci
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -12,7 +12,7 @@ namespace Fibonacci
             Console.ReadKey();
         }
 
-        static int GetFibonacciSequenceAtIndex(int index)
+        public static int GetFibonacciSequenceAtIndex(int index)
         {
             int a = 0;
             int b = 1;
