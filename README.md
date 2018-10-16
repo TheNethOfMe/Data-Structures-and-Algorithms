@@ -6,3 +6,4 @@
 * [Challenge: Array Binary Search](./challenges/binarySearch)
 * [Challenge: Fibonacci Sequence](./challenges/Fibonacci)
 * [Data Structures: Linked Lists](./data-structures/linkedList)
+* [Challenge: Linked Lists Kth Index from End](./challenges/linkedListKthFromEnd)

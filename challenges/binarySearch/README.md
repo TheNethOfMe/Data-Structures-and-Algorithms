@@ -15,4 +15,4 @@ Space: We only need to create three variables regardless of the length of the ar
 
 ## Solution
 
-![alt text](../../assets/array_binary_search.jpg "Shift Array Solution")
+![alt text](../../assets/array_binary_search.jpg "Binary Search Solution")
