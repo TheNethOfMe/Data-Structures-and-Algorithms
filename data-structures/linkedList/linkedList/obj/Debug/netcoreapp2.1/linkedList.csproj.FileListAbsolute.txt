@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.dll
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.pdb
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.dll
+C:\Users\nethw\Code\401\DSA\challenges\linkedList\linkedList\obj\Debug\netcoreapp2.1\linkedList.pdb

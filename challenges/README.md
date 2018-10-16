@@ -4,3 +4,4 @@ This is where all of the daily challenges live. Each folder contains a white boa
 
 * [Array Shift](./arrayShift)
 * [Binary Search](./binarySearch)
+* [Fibonacci Sequence](./Fibonacci)
