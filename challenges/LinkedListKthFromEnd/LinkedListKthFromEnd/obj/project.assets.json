@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\LinkedListKthFromEnd\\LinkedListKthFromEnd\\LinkedListKthFromEnd.csproj",
-      "projectName": "LinkedListKthFromEnd",
-      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\LinkedListKthFromEnd\\LinkedListKthFromEnd\\LinkedListKthFromEnd.csproj",
+      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\linkedListKthFromEnd\\linkedListKthFromEnd\\linkedListKthFromEnd.csproj",
+      "projectName": "linkedListKthFromEnd",
+      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\linkedListKthFromEnd\\linkedListKthFromEnd\\linkedListKthFromEnd.csproj",
       "packagesPath": "C:\\Users\\nethw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\LinkedListKthFromEnd\\LinkedListKthFromEnd\\obj\\",
+      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\linkedListKthFromEnd\\linkedListKthFromEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
