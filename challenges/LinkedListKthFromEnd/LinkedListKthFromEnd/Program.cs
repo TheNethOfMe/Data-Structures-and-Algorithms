@@ -4,18 +4,18 @@ using linkedList.Classes;
 
 namespace linkedListKthFromEnd
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             CerealList myList = CreateInitialList();
-            string test = CeriealKthFromEnd(myList, 4);
+            string test = CerealKthFromEnd(myList, 4);
             Console.WriteLine($"The returned value is {test}");
             Console.ReadKey();
         }
 
-        static string CeriealKthFromEnd(CerealList LL, int IndexFromEnd)
+        public static string CerealKthFromEnd(CerealList LL, int IndexFromEnd)
         {
             int count = 0;
             Cereal result = null;
