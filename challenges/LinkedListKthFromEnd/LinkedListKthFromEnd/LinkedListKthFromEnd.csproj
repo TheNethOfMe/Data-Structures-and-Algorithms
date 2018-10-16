@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="linkedList">
+      <HintPath>..\..\..\data-structures\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

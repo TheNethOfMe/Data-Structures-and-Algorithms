@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedListKthFromEnd.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedListKthFromEnd.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedListKthFromEnd.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedListKthFromEnd.dll
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedListKthFromEnd.pdb
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedList.dll
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\bin\Debug\netcoreapp2.1\linkedList.pdb
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.dll
+C:\Users\nethw\Code\401\DSA\challenges\linkedListKthFromEnd\linkedListKthFromEnd\obj\Debug\netcoreapp2.1\linkedListKthFromEnd.pdb
