@@ -20,6 +20,12 @@ namespace LinkedListMerge
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Merges two Linked Lists by zippering the second cereal list into the first
+        /// </summary>
+        /// <param name="listA">A list of Cereals</param>
+        /// <param name="listB">A second list of Cereals</param>
+        /// <returns>The first list which is now combined with the second</returns>
         public static CerealList Merge(CerealList listA, CerealList listB)
         {
             listA.Current = listA.Head;
@@ -44,6 +50,11 @@ namespace LinkedListMerge
             return listA;
         }
 
+        /// <summary>
+        /// This is a method to quickly generate Cereal lists, mostly for testing purposes
+        /// </summary>
+        /// <param name="cerealList">An array of strings to be turned into cereals</param>
+        /// <returns>A CerealList full of Cereals generated from input array</returns>
         public static CerealList generateList(string[] cerealList)
         {
             CerealList temp = new CerealList(new Cereal(cerealList[0]));
@@ -54,6 +65,10 @@ namespace LinkedListMerge
             return temp;
         }
 
+        /// <summary>
+        /// Creates a test CerealList
+        /// </summary>
+        /// <returns>A CerealList for testing</returns>
         public static CerealList genListOne()
         {
             string[] cerealList1 = new string[4]
@@ -66,6 +81,10 @@ namespace LinkedListMerge
             return generateList(cerealList1);
         }
 
+        /// <summary>
+        /// Creates a test CerealList
+        /// </summary>
+        /// <returns>A CerealList for testing</returns>
         public static CerealList genListTwo()
         {
             string[] cerealList2 = new string[4]
@@ -78,6 +97,10 @@ namespace LinkedListMerge
             return generateList(cerealList2);
         }
 
+        /// <summary>
+        /// Creates a test CerealList
+        /// </summary>
+        /// <returns>A CerealList for testing</returns>
         public static CerealList genListThree()
         {
             string[] cerealList3 = new string[2]
