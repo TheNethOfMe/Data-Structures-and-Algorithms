@@ -1681,6 +1681,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "LinkedListMerge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/LinkedListMerge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedListMerge.dll": {}
+        }
       }
     }
   },
@@ -5740,10 +5753,16 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "LinkedListMerge/1.0.0": {
+      "type": "project",
+      "path": "../LinkedListMerge/LinkedListMerge.csproj",
+      "msbuildProject": "../LinkedListMerge/LinkedListMerge.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "LinkedListMerge >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.3.1",
@@ -5779,7 +5798,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\LinkedListMerge\\LinkedListMerge\\LinkedListMerge.csproj": {
+              "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\LinkedListMerge\\LinkedListMerge\\LinkedListMerge.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
