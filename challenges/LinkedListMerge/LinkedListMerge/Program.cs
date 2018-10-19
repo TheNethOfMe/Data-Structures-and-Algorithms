@@ -14,9 +14,9 @@ namespace LinkedListMerge
             GeneralMills.PrintList();
             Console.WriteLine("Kellogs");
             Kellogs.PrintList();
-            CerealList Combined = Merge(GeneralMills, Kellogs);
+            Merge(GeneralMills, Kellogs);
             Console.WriteLine("Combined");
-            Combined.PrintList();
+            GeneralMills.PrintList();
             Console.ReadKey();
         }
 
