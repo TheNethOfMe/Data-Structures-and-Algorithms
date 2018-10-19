@@ -3,7 +3,7 @@ using linkedList.Classes;
 
 namespace ll_reverse
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -23,7 +23,7 @@ namespace ll_reverse
         /// </summary>
         /// <param name="LL">The Linked List (CerealList in this case) to be reversed</param>
         /// <returns>The list that was input, which will be reversed</returns>
-        static CerealList ReverseLL(CerealList LL)
+        public static CerealList ReverseLL(CerealList LL)
         {
             LL.Current = LL.Head;
             Cereal tempPrev = null;
@@ -43,7 +43,7 @@ namespace ll_reverse
         /// A method for generating a CerealList to use for testing
         /// </summary>
         /// <returns>The Cereal list we will use to test</returns>
-        static CerealList generateListForTesting()
+        public static CerealList generateListForTesting()
         {
             CerealList testList = new CerealList(new Cereal("Lucky Charms"));
             testList.AppendCereal(new Cereal("Fruit Loops"));

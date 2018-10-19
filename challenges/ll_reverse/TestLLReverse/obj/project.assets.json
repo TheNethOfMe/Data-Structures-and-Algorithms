@@ -1681,6 +1681,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ll_reverse/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/ll_reverse.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ll_reverse.dll": {}
+        }
       }
     }
   },
@@ -5740,12 +5753,18 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ll_reverse/1.0.0": {
+      "type": "project",
+      "path": "../ll_reverse/ll_reverse.csproj",
+      "msbuildProject": "../ll_reverse/ll_reverse.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "ll_reverse >= 1.0.0",
       "xunit >= 2.3.1",
       "xunit.runner.visualstudio >= 2.3.1"
     ]
@@ -5779,7 +5798,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\ll_reverse\\ll_reverse\\ll_reverse.csproj": {
+              "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\challenges\\ll_reverse\\ll_reverse\\ll_reverse.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

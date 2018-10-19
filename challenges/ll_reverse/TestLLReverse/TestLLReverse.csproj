@@ -12,4 +12,14 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ll_reverse\ll_reverse.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="linkedList">
+      <HintPath>..\..\..\data-structures\linkedList\linkedList\bin\Debug\netcoreapp2.1\linkedList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
