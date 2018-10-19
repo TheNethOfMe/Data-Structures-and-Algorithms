@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\ll_reverse.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\ll_reverse.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\ll_reverse.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\ll_reverse.dll
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\ll_reverse.pdb
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\linkedList.dll
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\bin\Debug\netcoreapp2.1\linkedList.pdb
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.dll
+C:\Users\nethw\Code\401\DSA\challenges\ll_reverse\ll_reverse\obj\Debug\netcoreapp2.1\ll_reverse.pdb
