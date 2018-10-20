@@ -2,4 +2,5 @@
 
 This is a collection of data structure and algorithm implementations.
 
-[Linked List](./linkedList)
+* [Linked List](./linkedList)
+* [Stacks and Queues](./stacksAndQueues)

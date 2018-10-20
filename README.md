@@ -9,3 +9,4 @@
 * [Challenge: Linked Lists Kth Index from End](./challenges/linkedListKthFromEnd)
 * [Challenge: Merge Two Linked Lists](./challenges/LinkedListMerge)
 * [Challenge: Reverse Linked List](./challenges/ll_reverse)
+* [Data Structures: Stacks and Queues](./data-structures/stacksAndQueues)
