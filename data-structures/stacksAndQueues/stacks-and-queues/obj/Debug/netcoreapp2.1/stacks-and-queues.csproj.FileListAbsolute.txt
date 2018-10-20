@@ -9,3 +9,14 @@ C:\Users\nethw\Code\401\one-offs\stacks-and-queues\stacks-and-queues\obj\Debug\n
 C:\Users\nethw\Code\401\one-offs\stacks-and-queues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.AssemblyInfo.cs
 C:\Users\nethw\Code\401\one-offs\stacks-and-queues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.dll
 C:\Users\nethw\Code\401\one-offs\stacks-and-queues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\data-structures\stacksAndQueues\stacks-and-queues\obj\Debug\netcoreapp2.1\stacks-and-queues.pdb
