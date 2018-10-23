@@ -41,6 +41,6 @@ The following visual aids are included: A whiteboard diagram explaining the meth
 
 ![alt text](../../assets/queue_with_stacks.jpg "Queue with Stacks Whiteboard")
 
-![alt text](../../assets/ll_merge.jpg "Linked List Merge Whiteboard")
+![alt text](../../assets/prompt2.jpg "Console Demo")
 
 ![alt text](../../assets/slinky.jpg "Reference Slinky")
