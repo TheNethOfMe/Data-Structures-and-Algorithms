@@ -10,7 +10,6 @@ namespace queue_in_two_stacks
             Console.WriteLine("Hello World!");
             Stack iStack = InstantiateEmptyStack();
             Stack oStack = InstantiateEmptyStack();
-            
             Node testNode1 = new Node(1);
             Node testNode2 = new Node(2);
             Node testNode3 = new Node(3);
@@ -31,7 +30,13 @@ namespace queue_in_two_stacks
             Console.ReadKey();
             Console.ReadKey();
         }
-
+        /// <summary>
+        /// This methods allows for the instantiation of an empty stack (which is normally 
+        /// not allowed since stacks have to be instantiated with at least one node.
+        /// This circumvents that process by instantating the stack and then removing the
+        /// test node it's created with.
+        /// </summary>
+        /// <returns>A stack with no nodes inside.</returns>
         public static Stack InstantiateEmptyStack()
         {
             Node newNode = new Node("POP ME");
@@ -40,11 +45,24 @@ namespace queue_in_two_stacks
             return newStack;
         }
 
+        /// <summary>
+        /// Emulates an enqueue method, but with a stack. Pushes one node onto the input stack
+        /// </summary>
+        /// <param name="input">the stack acting as the input stack</param>
+        /// <param name="nodeToAdd">the node to be enqueued on the input stack</param>
         public static void EnqueueWithStacks(Stack input, Node nodeToAdd)
         {
             input.Push(nodeToAdd);
         }
 
+        /// <summary>
+        /// Emulates the dequeue method with stacks. Removes one node from the output stack
+        /// or puts the nodes from the input stack into the output stack in reverse order 
+        /// and then removes from the output stack
+        /// </summary>
+        /// <param name="input">The stack acting as the input stack</param>
+        /// <param name="output">The stack acting as the output stack</param>
+        /// <returns>The node that was dequeued from the stacks</returns>
         public static Node DequeueWithStacks(Stack input, Stack output)
         {
             Node oStackHasNode = output.Peek();
