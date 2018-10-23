@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fifo_animal_shelter", "fifo_animal_shelter\fifo_animal_shelter.csproj", "{692B57B5-B0D0-4434-91EB-3B3D8E3194E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShelters", "TestShelters\TestShelters.csproj", "{2C46956D-7B5F-4917-B539-EB65FFDDA003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692B57B5-B0D0-4434-91EB-3B3D8E3194E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692B57B5-B0D0-4434-91EB-3B3D8E3194E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692B57B5-B0D0-4434-91EB-3B3D8E3194E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692B57B5-B0D0-4434-91EB-3B3D8E3194E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C46956D-7B5F-4917-B539-EB65FFDDA003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C46956D-7B5F-4917-B539-EB65FFDDA003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C46956D-7B5F-4917-B539-EB65FFDDA003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C46956D-7B5F-4917-B539-EB65FFDDA003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27039AA9-8B1D-4E3B-B31A-D39724253EA7}
+	EndGlobalSection
+EndGlobal

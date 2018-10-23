@@ -1,0 +1,17 @@
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\TestShelters.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\TestShelters.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\TestShelters.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\TestShelters.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\TestShelters.pdb
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\fifo_animal_shelter.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\bin\Debug\netcoreapp2.1\fifo_animal_shelter.pdb
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.dll
+C:\Users\nethw\Code\401\DSA\challenges\fifo_animal_shelter\TestShelters\obj\Debug\netcoreapp2.1\TestShelters.pdb
