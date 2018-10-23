@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\queue_in_two_stacks.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\queue_in_two_stacks.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\queue_in_two_stacks.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\queue_in_two_stacks.dll
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\queue_in_two_stacks.pdb
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\bin\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.dll
+C:\Users\nethw\Code\401\DSA\challenges\queue_in_two_stacks\queue_in_two_stacks\obj\Debug\netcoreapp2.1\queue_in_two_stacks.pdb
