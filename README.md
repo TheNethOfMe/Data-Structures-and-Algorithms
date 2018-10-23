@@ -10,3 +10,4 @@
 * [Challenge: Merge Two Linked Lists](./challenges/LinkedListMerge)
 * [Challenge: Reverse Linked List](./challenges/ll_reverse)
 * [Data Structures: Stacks and Queues](./data-structures/stacksAndQueues)
+* [Challenge: Queue as Two Stacks](./challenges/queue_in_two_stacks)
