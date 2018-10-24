@@ -12,4 +12,4 @@
 * [Data Structures: Stacks and Queues](./data-structures/stacksAndQueues)
 * [Challenge: Queue as Two Stacks](./challenges/queue_in_two_stacks)
 * [Challenge: FIFO Animal Shelter](./challenges/fifo_animal_shelter)
-* [Multi Bracket Validator](./challenges/multi_bracket_validator)
+* [Challenge: Multi Bracket Validator](./challenges/multi_bracket_validator)
