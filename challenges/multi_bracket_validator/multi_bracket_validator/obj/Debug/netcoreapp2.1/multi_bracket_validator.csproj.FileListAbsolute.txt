@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\multi_bracket_validator.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\multi_bracket_validator.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\multi_bracket_validator.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\multi_bracket_validator.dll
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\multi_bracket_validator.pdb
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\bin\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.dll
+C:\Users\nethw\Code\401\DSA\challenges\multi_bracket_validator\multi_bracket_validator\obj\Debug\netcoreapp2.1\multi_bracket_validator.pdb
