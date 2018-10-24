@@ -31,9 +31,9 @@ Finally, I test that strings with the right amount of brackets/parens but have t
 ## Efficiency
 
 Time: O(n)
-Space: O(1)
+Space: O(n)
 
-Time is O(n) because the method needs to iterate up to the entire string if the string returns true. As for space, the whiteboard has writen O(n), but that was before I realized that string has a length property, so we don't have to create an array of chars for the string. I think this would make the space O(1) since we only need to create a finite number of variables in the method no matter how long the string.
+Time is O(n) because the method needs to iterate up to the entire string if the string returns true. I tried to make my method a little more efficient by iterating over the string itself, instead of converting it to an array, but this still leaves us with O(n) for space, because the amount of nodes getting pushed to the stack to make the method work will vary by the number of brackets/parens in the string.
 
 ## Whiteboard
 
