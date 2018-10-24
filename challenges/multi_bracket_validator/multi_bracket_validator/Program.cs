@@ -8,18 +8,23 @@ namespace multi_bracket_validator
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("The following is a test of the MultiBracketValidator method.");
+            Console.WriteLine("If the parenthesis or brackets don't match, the output will be false.\n");
             string test1 = "The parenthesis do (not) matter.";
-            Console.WriteLine(test1);
-            Console.WriteLine(MultiBracketValidator(test1));
+            Console.WriteLine($"INPUT: {test1}");
+            Console.WriteLine($"OUTPUT: {MultiBracketValidator(test1)}\n");
             string test2 = "That wasn't really it [I'm not dead. (Tee Hee)]";
-            Console.WriteLine(test2);
-            Console.WriteLine(MultiBracketValidator(test2));
+            Console.WriteLine($"INPUT: {test2}");
+            Console.WriteLine($"OUTPUT: {MultiBracketValidator(test2)}\n");
             string test3 = "This )Will not work.";
-            Console.WriteLine(test3);
-            Console.WriteLine(MultiBracketValidator(test3));
+            Console.WriteLine($"INPUT: {test3}");
+            Console.WriteLine($"OUTPUT: {MultiBracketValidator(test3)}\n");
             string test4 = "Neither will this(.";
-            Console.WriteLine(test4);
-            Console.WriteLine(MultiBracketValidator(test4));
+            Console.WriteLine($"INPUT: {test4}");
+            Console.WriteLine($"OUTPUT: {MultiBracketValidator(test4)}\n");
+            string test5 = "This has the right (matching but [in the wrong order)].";
+            Console.WriteLine($"INPUT: {test5}");
+            Console.WriteLine($"OUTPUT: {MultiBracketValidator(test4)}\n");
             Console.ReadKey();
         }
 
@@ -52,7 +57,9 @@ namespace multi_bracket_validator
                         {
                             bracketStack.Pop();
                         }
-                        break;      
+                        break;
+                    default:
+                        break;
                 }
                 i++;   
             }
