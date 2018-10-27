@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\bin\Debug\netcoreapp2.1\diminishing_lists.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\bin\Debug\netcoreapp2.1\diminishing_lists.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\bin\Debug\netcoreapp2.1\diminishing_lists.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\bin\Debug\netcoreapp2.1\diminishing_lists.dll
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\bin\Debug\netcoreapp2.1\diminishing_lists.pdb
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.dll
+C:\Users\nethw\Code\401\DSA\challenges\diminishing_lists\diminishing_lists\obj\Debug\netcoreapp2.1\diminishing_lists.pdb
