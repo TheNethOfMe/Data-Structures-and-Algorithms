@@ -11,3 +11,4 @@ This is where all of the daily challenges live. Each folder contains a white boa
 * [Queue As Two Stacks](./queue_in_two_stacks)
 * [FIFO Animal Shelter](./fifo_animal_shelter)
 * [Multi Bracket Validator](./multi_bracket_validator)
+* [Diminishing Lists](./diminishing_lists)

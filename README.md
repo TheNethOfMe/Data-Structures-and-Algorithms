@@ -13,3 +13,4 @@
 * [Challenge: Queue as Two Stacks](./challenges/queue_in_two_stacks)
 * [Challenge: FIFO Animal Shelter](./challenges/fifo_animal_shelter)
 * [Challenge: Multi Bracket Validator](./challenges/multi_bracket_validator)
+* [Challenge: Diminishing Lists](./challenges/diminishing_lists)
