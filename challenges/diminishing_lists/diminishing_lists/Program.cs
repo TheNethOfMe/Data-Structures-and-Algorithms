@@ -3,19 +3,19 @@ using System.Collections.Generic;
 
 namespace diminishing_lists
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             List<string> optionList = GenerateList();
             PrintList(optionList);
-            string result = Diminish(optionList, 2);
+            string result = Diminish(optionList, 6);
             Console.WriteLine(result);
             Console.ReadLine();
         }
 
-        static string Diminish(List<string> strList, int num)
+        public static string Diminish(List<string> strList, int num)
         {
             Console.WriteLine("Diminishing");
             int pointer = num - 1;
@@ -23,7 +23,7 @@ namespace diminishing_lists
             {
                 strList.RemoveAt(pointer);
                 pointer = pointer + num;
-                if (pointer >= strList.Count)
+                while (pointer >= strList.Count)
                 {
                     pointer = pointer - strList.Count;
                 }
@@ -33,7 +33,7 @@ namespace diminishing_lists
             return strList[0];
         }
 
-        static List<string> GenerateList()
+        public static List<string> GenerateList()
         {
             List<string> result = new List<string>
             {
