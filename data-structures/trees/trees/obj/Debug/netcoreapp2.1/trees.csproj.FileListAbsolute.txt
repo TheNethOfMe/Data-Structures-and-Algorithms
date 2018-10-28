@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.dll
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\bin\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.dll
+C:\Users\nethw\Code\401\DSA\data-structures\trees\trees\obj\Debug\netcoreapp2.1\trees.pdb
