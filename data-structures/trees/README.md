@@ -12,16 +12,8 @@ Create a BinarySearchTree class that will add nodes in a binary search tree data
 
 You can view the demo by running `dotnet run` from the trees directory. This also features a full test suite which can be run with the `dotnet test` command from the TestTrees directory.
 
-The Tree class contains methods to perform a various Depth-first search methods. These methods are..
+### BinaryTree
+The BinaryTree class contains methods to perform a various Depth-first search methods. These methods are Pre-Order, In-Order, and Post-Order. It also has an Add method to add nodes to the BinaryTree.
 
-### PreOrder
-
-Displays the Root node first.
-
-### InOrder
-
-Displays the Root node second.
-
-### PostOrder
-
-Displays the Root node last.
+### BinarySearchTree
+The BinarySearchTree class has methods to add Nodes to the tree and search the tree for a Node with a specific value.

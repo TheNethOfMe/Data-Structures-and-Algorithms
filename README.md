@@ -14,3 +14,4 @@
 * [Challenge: FIFO Animal Shelter](./challenges/fifo_animal_shelter)
 * [Challenge: Multi Bracket Validator](./challenges/multi_bracket_validator)
 * [Challenge: Diminishing Lists](./challenges/diminishing_lists)
+* [Data Structures: Binary Trees and Binary Search Trees](./data-structures/trees)
