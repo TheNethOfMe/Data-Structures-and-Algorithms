@@ -4,11 +4,11 @@ using trees.Classes;
 
 namespace trees
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ordering Nodes in This Tree!");
             BinaryTree testTree = CreateTree();
             Console.WriteLine($"          {testTree.Root.Value}");
             Console.WriteLine($"     {testTree.Root.GetLeft().Value} ------- {testTree.Root.GetRight().Value}");
@@ -16,11 +16,19 @@ namespace trees
             Node[] preordered = testTree.PreOrder(testTree.Root);
             Node[] inordered = testTree.InOrder(testTree.Root);
             Node[] postordered = testTree.PostOrder(testTree.Root);
+            Console.ReadKey();
+            Console.WriteLine("\nPre-Order");
+            PrintList(preordered);
+            Console.ReadKey();
+            Console.WriteLine("\nIn-Order");
+            PrintList(inordered);
+            Console.ReadKey();
+            Console.WriteLine("\nPost-Order");
             PrintList(postordered);
-            Console.ReadLine();
+            Console.ReadKey();
         }
 
-        static BinaryTree CreateTree()
+        public static BinaryTree CreateTree()
         {
             BinaryTree result = new BinaryTree(new Node(6));
             result.Add(new Node(5));
@@ -31,7 +39,7 @@ namespace trees
             return result;
         }
 
-        static void PrintList(Node[] list)
+        public static void PrintList(Node[] list)
         {
             int i = 1;
             foreach(Node node in list)
