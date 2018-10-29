@@ -61,6 +61,11 @@ namespace trees.Classes
             }
         }
 
+        /// <summary>
+        /// Collects all of the Nodes from a Binary Tree in Preorder traversal pattern
+        /// </summary>
+        /// <param name="root">The root node of the tree</param>
+        /// <returns>An array of Nodes in root, left, right order</returns>
         public Node[] PreOrder(Node root)
         {
             Node[] result = new Node[1];
@@ -73,6 +78,46 @@ namespace trees.Classes
             {
                 result = result.Concat(PreOrder(root.GetRight())).ToArray();
             }
+            return result;
+        }
+
+        /// <summary>
+        /// Collects all of the Nodes from a Binary Tree in InOrder traversal pattern
+        /// </summary>
+        /// <param name="root">The root node of the tree</param>
+        /// <returns>An array of Nodes in left, root, right order</returns>
+        public Node[] InOrder(Node root)
+        {
+            Node[] result = new Node[0];
+            if (root.GetLeft() != null)
+            {
+                result = result.Concat(InOrder(root.GetLeft())).ToArray();
+            }
+            result = result.Concat(new Node[] { root }).ToArray();
+            if (root.GetRight() != null)
+            {
+                result = result.Concat(InOrder(root.GetRight())).ToArray();
+            }
+            return result;
+        }
+
+        /// <summary>
+        /// Collects all of the Nodes from a Binary Tree in PostOrder traversal pattern
+        /// </summary>
+        /// <param name="root">The root node of the tree</param>
+        /// <returns>An array of Nodes in left, right, root order</returns>
+        public Node[] PostOrder(Node root)
+        {
+            Node[] result = new Node[0];
+            if (root.GetLeft() != null)
+            {
+                result = result.Concat(PostOrder(root.GetLeft())).ToArray();
+            }
+            if (root.GetRight() != null)
+            {
+                result = result.Concat(PostOrder(root.GetRight())).ToArray();
+            }
+            result = result.Concat(new Node[] { root }).ToArray();
             return result;
         }
     }

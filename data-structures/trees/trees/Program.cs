@@ -14,7 +14,9 @@ namespace trees
             Console.WriteLine($"     {testTree.Root.GetLeft().Value} ------- {testTree.Root.GetRight().Value}");
             Console.WriteLine($"  {testTree.Root.GetLeft().GetLeft().Value} --- {testTree.Root.GetLeft().GetRight().Value} | {testTree.Root.GetRight().GetLeft().Value} --- null");
             Node[] preordered = testTree.PreOrder(testTree.Root);
-            PrintList(preordered);
+            Node[] inordered = testTree.InOrder(testTree.Root);
+            Node[] postordered = testTree.PostOrder(testTree.Root);
+            PrintList(postordered);
             Console.ReadLine();
         }
 
@@ -31,10 +33,12 @@ namespace trees
 
         static void PrintList(Node[] list)
         {
-            Console.WriteLine(list.Length);
+            int i = 1;
             foreach(Node node in list)
             {
+                Console.Write($"{i}: ");
                 Console.WriteLine(node.Value);
+                i++;
             }
         }
     }
