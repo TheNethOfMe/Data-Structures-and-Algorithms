@@ -25,6 +25,16 @@ namespace trees
             Console.ReadKey();
             Console.WriteLine("\nPost-Order");
             PrintList(postordered);
+            BinarySearchTree testBST = GenerateBinarySearchTree();
+            Console.ReadKey();
+            Console.WriteLine("Binary Search Tree");
+            Console.WriteLine($"          {testBST.Root.Value}");
+            Console.WriteLine($"     {testBST.Root.GetLeft().Value} ------- {testBST.Root.GetRight().Value}");
+            Console.WriteLine($"  null --- {testBST.Root.GetLeft().GetRight().Value} | {testBST.Root.GetRight().GetLeft().Value} --- {testBST.Root.GetRight().GetRight().Value}");
+            Console.WriteLine($"x | x | x | {testBST.Root.GetLeft().GetRight().GetRight().Value} | x | x | {testBST.Root.GetRight().GetRight().GetLeft().Value} | x");
+            Console.ReadKey();
+            Node[] inorderedBST = testTree.InOrder(testBST.Root);
+            PrintList(inorderedBST);
             Console.ReadKey();
         }
 
@@ -48,6 +58,19 @@ namespace trees
                 Console.WriteLine(node.Value);
                 i++;
             }
+        }
+
+        public static BinarySearchTree GenerateBinarySearchTree()
+        {
+            BinarySearchTree result = new BinarySearchTree(new Node(100));
+            result.Add(new Node(50));
+            result.Add(new Node(200));
+            result.Add(new Node(75));
+            result.Add(new Node(300));
+            result.Add(new Node(250));
+            result.Add(new Node(101));
+            result.Add(new Node(99));
+            return result;
         }
     }
 }

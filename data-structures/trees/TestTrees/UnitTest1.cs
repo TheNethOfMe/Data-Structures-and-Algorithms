@@ -51,5 +51,41 @@ namespace TestTrees
             Node[] ordered = testTree.PostOrder(testTree.Root);
             Assert.Equal(ordered[index].Value, result);
         }
+
+        [Theory]
+        [InlineData(0, 50)]
+        [InlineData(1, 75)]
+        [InlineData(2, 99)]
+        [InlineData(3, 100)]
+        [InlineData(4, 101)]
+        [InlineData(5, 200)]
+        [InlineData(6, 250)]
+        [InlineData(7, 300)]
+        // Tests that a Binary Search Tree is properly generated
+        public void ShouldGenerateBinarySearchTree(int index, int result)
+        {
+            BinaryTree testTree = Program.CreateTree();
+            BinarySearchTree testBST = Program.GenerateBinarySearchTree();
+            Node[] ordered = testTree.InOrder(testBST.Root);
+            Assert.Equal(ordered[index].Value, result);
+        }
+
+        [Fact]
+        // Tests the Search method on the BinarySearchTree class
+        public void ShouldReturnNodeSearchedFor()
+        {
+            BinarySearchTree testBST = Program.GenerateBinarySearchTree();
+            Node result = testBST.Search(200);
+            Assert.Equal(200, result.Value);
+        }
+
+        [Fact]
+        // Tests that the Search method returns null if it's called with a value that's not in the tree
+        public void ShouldReturnNullIfSearchValueIsNotFound()
+        {
+            BinarySearchTree testBST = Program.GenerateBinarySearchTree();
+            Node result = testBST.Search(64);
+            Assert.Null(result);
+        }
     }
 }
