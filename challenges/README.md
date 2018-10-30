@@ -12,3 +12,4 @@ This is where all of the daily challenges live. Each folder contains a white boa
 * [FIFO Animal Shelter](./fifo_animal_shelter)
 * [Multi Bracket Validator](./multi_bracket_validator)
 * [Diminishing Lists](./diminishing_lists)
+* [FizzBuzz Trees](./fizzbuzztree)

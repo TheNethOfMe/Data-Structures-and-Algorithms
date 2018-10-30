@@ -15,3 +15,4 @@
 * [Challenge: Multi Bracket Validator](./challenges/multi_bracket_validator)
 * [Challenge: Diminishing Lists](./challenges/diminishing_lists)
 * [Data Structures: Binary Trees and Binary Search Trees](./data-structures/trees)
+* [Challenge: FizzBuzz Trees](./challenges/fizzbuzztree)

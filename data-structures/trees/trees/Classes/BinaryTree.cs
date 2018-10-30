@@ -20,7 +20,7 @@ namespace trees.Classes
 
         /// <summary>
         /// Adds a node to the BinaryTree
-        /// </summary>
+        /// </summary>gf
         /// <param name="newNode">The node to insert into the BinaryTree</param>
         public void Add(Node newNode)
         {
