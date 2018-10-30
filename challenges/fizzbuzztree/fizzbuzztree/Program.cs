@@ -1,16 +1,20 @@
 ﻿using System;
+using System.Linq;
 using trees.Classes;
 
 namespace fizzbuzztree
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             BinaryTree testTree = CreateTree();
-            FizzBuzzTree(testTree.Root);
-            Console.ReadKey();
+            string[] test = FizzBuzzTree(testTree.Root);
+            foreach(String str in test) {
+                Console.WriteLine(str);
+            }
+            Console.ReadLine();
         }
 
         public static BinaryTree CreateTree()
@@ -24,31 +28,33 @@ namespace fizzbuzztree
             return result;
         }
 
-        public static void FizzBuzzTree(Node root)
+        public static string[] FizzBuzzTree(Node root)
         {
+            string[] result = new string[1];
             switch (root.Value)
             {
                 case int n when (n % 15 == 0):
-                    Console.WriteLine("FizzBuzz");
+                    result[0] = "FizzBuzz";
                     break;
                 case int n when (n % 5 == 0):
-                    Console.WriteLine("Buzz");
+                    result[0] = "Buzz";
                     break;
                 case int n when (n % 3 == 0):
-                    Console.WriteLine("Fizz");
+                    result[0] = "Fizz";
                     break;
                 default:
-                    Console.WriteLine(root.Value);
+                    result[0] = root.Value.ToString();
                     break;
             }
             if (root.GetLeft() != null)
             {
-                FizzBuzzTree(root.GetLeft());
+                result = result.Concat(FizzBuzzTree(root.GetLeft())).ToArray();
             }
             if (root.GetRight() != null)
             {
-                FizzBuzzTree(root.GetRight());
+                result = result.Concat(FizzBuzzTree(root.GetRight())).ToArray();
             }
+            return result;
         }
     }
 }
