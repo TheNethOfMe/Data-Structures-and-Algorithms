@@ -13,3 +13,4 @@ This is where all of the daily challenges live. Each folder contains a white boa
 * [Multi Bracket Validator](./multi_bracket_validator)
 * [Diminishing Lists](./diminishing_lists)
 * [FizzBuzz Trees](./fizzbuzztree)
+* [Breadth First Traversal](./breadth_first_traversal)
