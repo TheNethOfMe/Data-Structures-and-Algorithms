@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="stacks-and-queues">
+      <HintPath>..\..\..\data-structures\stacksAndQueues\stacks-and-queues\bin\Debug\netcoreapp2.1\stacks-and-queues.dll</HintPath>
+    </Reference>
+    <Reference Include="trees">
+      <HintPath>..\..\..\data-structures\trees\trees\bin\Debug\netcoreapp2.1\trees.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

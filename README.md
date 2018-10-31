@@ -16,3 +16,4 @@
 * [Challenge: Diminishing Lists](./challenges/diminishing_lists)
 * [Data Structures: Binary Trees and Binary Search Trees](./data-structures/trees)
 * [Challenge: FizzBuzz Trees](./challenges/fizzbuzztree)
+* [Challenge: Breadth First Traversal](./challenges/breadth_first_traversal)

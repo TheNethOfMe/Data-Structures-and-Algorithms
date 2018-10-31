@@ -1,0 +1,16 @@
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\breadth_first_traversal.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\breadth_first_traversal.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\breadth_first_traversal.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\breadth_first_traversal.dll
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\breadth_first_traversal.pdb
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\stacks-and-queues.dll
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\trees.dll
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\stacks-and-queues.pdb
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\bin\Debug\netcoreapp2.1\trees.pdb
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.dll
+C:\Users\nethw\Code\401\DSA\challenges\breadth_first_traversal\breadth_first_traversal\obj\Debug\netcoreapp2.1\breadth_first_traversal.pdb
