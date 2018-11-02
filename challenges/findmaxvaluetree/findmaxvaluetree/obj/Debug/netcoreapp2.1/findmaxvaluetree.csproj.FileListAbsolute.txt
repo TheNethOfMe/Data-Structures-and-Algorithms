@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\findmaxvaluetree.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\findmaxvaluetree.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\findmaxvaluetree.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\findmaxvaluetree.dll
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\findmaxvaluetree.pdb
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\trees.dll
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\bin\Debug\netcoreapp2.1\trees.pdb
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.dll
+C:\Users\nethw\Code\401\DSA\challenges\findmaxvaluetree\findmaxvaluetree\obj\Debug\netcoreapp2.1\findmaxvaluetree.pdb
