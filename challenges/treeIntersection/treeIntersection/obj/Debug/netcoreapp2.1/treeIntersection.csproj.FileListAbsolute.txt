@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\treeIntersection.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\treeIntersection.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\treeIntersection.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\treeIntersection.dll
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\treeIntersection.pdb
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\trees.dll
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\bin\Debug\netcoreapp2.1\trees.pdb
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.dll
+C:\Users\nethw\Code\401\DSA\challenges\treeIntersection\treeIntersection\obj\Debug\netcoreapp2.1\treeIntersection.pdb
