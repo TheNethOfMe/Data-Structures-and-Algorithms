@@ -1,0 +1,17 @@
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\TestHashTables.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\TestHashTables.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\TestHashTables.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\TestHashTables.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\TestHashTables.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\hashTables.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\bin\Debug\netcoreapp2.1\hashTables.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.dll
+C:\Users\nethw\Code\401\DSA\data-structures\hashTables\TestHashTables\obj\Debug\netcoreapp2.1\TestHashTables.pdb

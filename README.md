@@ -18,3 +18,4 @@
 * [Challenge: FizzBuzz Trees](./challenges/fizzbuzztree)
 * [Challenge: Breadth First Traversal](./challenges/breadth_first_traversal)
 * [Challenge: Find Max Value in Data Tree](./challenges/findmaxvaluetree)
+* [Data Structures: Hash Tables](./data-structures/hashTables)
