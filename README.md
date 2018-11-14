@@ -20,3 +20,4 @@
 * [Challenge: Find Max Value in Data Tree](./challenges/findmaxvaluetree)
 * [Data Structures: Hash Tables](./data-structures/hashTables)
 * [Challenge: Tree Intersection](./challenges/treeIntersection)
+* [Challenge: Repeated Words](./challenges/repeatedWord)
