@@ -1,0 +1,17 @@
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\TestInsert.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\TestInsert.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\TestInsert.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\TestInsert.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\TestInsert.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\InsertionSort.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\bin\Debug\netcoreapp2.1\InsertionSort.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.dll
+C:\Users\nethw\Code\401\DSA\data-structures\InsertionSort\TestInsert\obj\Debug\netcoreapp2.1\TestInsert.pdb
