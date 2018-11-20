@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\data-structures\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+      "projectUniqueName": "C:\\Users\\nethw\\Code\\401\\DSA\\sorting-algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
       "projectName": "InsertionSort",
-      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\data-structures\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+      "projectPath": "C:\\Users\\nethw\\Code\\401\\DSA\\sorting-algorithms\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
       "packagesPath": "C:\\Users\\nethw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\data-structures\\InsertionSort\\InsertionSort\\obj\\",
+      "outputPath": "C:\\Users\\nethw\\Code\\401\\DSA\\sorting-algorithms\\InsertionSort\\InsertionSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

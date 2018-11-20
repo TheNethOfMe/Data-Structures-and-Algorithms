@@ -21,4 +21,4 @@
 * [Data Structures: Hash Tables](./data-structures/hashTables)
 * [Challenge: Tree Intersection](./challenges/treeIntersection)
 * [Challenge: Repeated Words](./challenges/repeatedWord)
-* [Data Structures: Insertion Sort](./data-structures/InsertionSort)
+* [Sorting Algorithm: Insertion Sort](./sorting-algorithm/InsertionSort)
