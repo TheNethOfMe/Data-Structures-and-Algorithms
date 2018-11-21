@@ -22,3 +22,4 @@
 * [Challenge: Tree Intersection](./challenges/treeIntersection)
 * [Challenge: Repeated Words](./challenges/repeatedWord)
 * [Sorting Algorithm: Insertion Sort](./sorting-algorithm/InsertionSort)
+* [Sorting Algorithm: Quick Sort](./sorting-algorithm/QuickSort)
