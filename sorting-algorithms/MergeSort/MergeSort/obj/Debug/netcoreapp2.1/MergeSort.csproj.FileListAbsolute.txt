@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.deps.json
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.dll
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.pdb
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.dll
+C:\Users\nethw\Code\401\DSA\sorting-algorithms\MergeSort\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.pdb
