@@ -7,7 +7,7 @@ namespace graphs.Classes
     public class Graph
     {
         //public LinkedList<LinkedList<Tuple<Vertex, int>>> AdjacencyList { get; set; }
-        public List<AdjacencyRow> AdjacencyList { get; set; }
+        private List<AdjacencyRow> AdjacencyList { get; set; }
         private int Count { get; set; }
 
         /// <summary>
@@ -34,7 +34,7 @@ namespace graphs.Classes
         /// Adds a new Adjacency Row to the Graph object and increments its count
         /// </summary>
         /// <param name="vertex">The vertex that will be the key for that adjacency row</param>
-        public void AddNewAdjacencyRow(Vertex vertex)
+        private void AddNewAdjacencyRow(Vertex vertex)
         {
             AdjacencyList.Add(new AdjacencyRow(vertex));
             Count += 1;
@@ -46,7 +46,7 @@ namespace graphs.Classes
         /// </summary>
         /// <param name="vertex">The Vertex to check for or create in the Adjacency List</param>
         /// <returns>The Row that was found or created with the passed in vertex as its key</returns>
-        public AdjacencyRow FindOrCreateAdjacencyRow(Vertex vertex)
+        private AdjacencyRow FindOrCreateAdjacencyRow(Vertex vertex)
         {
             AdjacencyRow RowWithKey = null;
             foreach (AdjacencyRow row in AdjacencyList)
@@ -70,7 +70,7 @@ namespace graphs.Classes
         /// <param name="checkRow">The row to check for (and possibly add) the adjacency</param>
         /// <param name="child">The vertex to get added to the adjacency list</param>
         /// <param name="addWeight">The weight to add to the adjacency if it's added (defaults to zero)</param>
-        public void FindOrAddAdjacencyItem(AdjacencyRow checkRow, Vertex child, int? addWeight)
+        private void FindOrAddAdjacencyItem(AdjacencyRow checkRow, Vertex child, int? addWeight)
         {
             bool ChildAlreadyExists = false;
             foreach (var pair in checkRow.Edges)
@@ -93,11 +93,20 @@ namespace graphs.Classes
         /// <param name="parent">The parent Vertex</param>
         /// <param name="child">The child Vertex to be added to the parent's Adjacency List</param>
         /// <param name="weight">The weigth of the adjacency (optional, defaults to zero)</param>
-        public void AddEdge(Vertex parent, Vertex child, int? weight)
+        public void AddEdge(Vertex parent, Vertex child, int weight = 0)
         {
             AdjacencyRow ParentRow = FindOrCreateAdjacencyRow(parent);
             AdjacencyRow ChildRow = FindOrCreateAdjacencyRow(child);
             FindOrAddAdjacencyItem(ParentRow, child, weight);
+        }
+
+        /// <summary>
+        /// Overload for AddEdge that lets a user add an Vertex to the Graph without an adjacency
+        /// </summary>
+        /// <param name="parent">The Vertex to be added to the graph</param>
+        public void AddEdge(Vertex parent)
+        {
+            AdjacencyRow ParentRow = FindOrCreateAdjacencyRow(parent);
         }
 
         /// <summary>

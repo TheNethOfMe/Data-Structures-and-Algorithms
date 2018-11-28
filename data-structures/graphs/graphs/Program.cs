@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace graphs
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -31,10 +31,10 @@ namespace graphs
             Vertex NodeF = new Vertex("Node F");
 
             Graph myGraph = new Graph(NodeA);
-            myGraph.AddNewAdjacencyRow(NodeB);
+            myGraph.AddEdge(NodeB, NodeA, 7);
             myGraph.AddEdge(NodeC, NodeD, 5);
             myGraph.AddEdge(NodeC, NodeE, 2);
-            myGraph.AddEdge(NodeC, NodeF, 0);
+            myGraph.AddEdge(NodeC, NodeF);
 
             return myGraph;
         }
