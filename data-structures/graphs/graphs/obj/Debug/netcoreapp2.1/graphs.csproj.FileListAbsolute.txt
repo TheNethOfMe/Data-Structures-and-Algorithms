@@ -1,0 +1,11 @@
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\bin\Debug\netcoreapp2.1\graphs.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\bin\Debug\netcoreapp2.1\graphs.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\bin\Debug\netcoreapp2.1\graphs.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\bin\Debug\netcoreapp2.1\graphs.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\bin\Debug\netcoreapp2.1\graphs.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\graphs\obj\Debug\netcoreapp2.1\graphs.pdb

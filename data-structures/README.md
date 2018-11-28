@@ -6,3 +6,4 @@ This is a collection of data structure and algorithm implementations.
 * [Stacks and Queues](./stacksAndQueues)
 * [Binary Trees and Binary Search Trees](./trees)
 * [Hash Tables](./hashTables)
+* [Graphs](./graphs)

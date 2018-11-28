@@ -1,0 +1,17 @@
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\TestGraph.deps.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\TestGraph.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\TestGraph.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\TestGraph.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\TestGraph.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\graphs.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\bin\Debug\netcoreapp2.1\graphs.pdb
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.dll
+C:\Users\nethw\Code\401\DSA\data-structures\graphs\TestGraph\obj\Debug\netcoreapp2.1\TestGraph.pdb
