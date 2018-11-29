@@ -1,0 +1,14 @@
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\get_edges.deps.json
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\get_edges.runtimeconfig.json
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\get_edges.runtimeconfig.dev.json
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\get_edges.dll
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\get_edges.pdb
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\graphs.dll
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\bin\Debug\netcoreapp2.1\graphs.pdb
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.csprojAssemblyReference.cache
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.csproj.CoreCompileInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.AssemblyInfoInputs.cache
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.AssemblyInfo.cs
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.csproj.CopyComplete
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.dll
+C:\Users\nethw\Code\401\DSA\challenges\get_edges\get_edges\obj\Debug\netcoreapp2.1\get_edges.pdb

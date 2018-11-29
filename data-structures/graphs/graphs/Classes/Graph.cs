@@ -98,6 +98,7 @@ namespace graphs.Classes
             AdjacencyRow ParentRow = FindOrCreateAdjacencyRow(parent);
             AdjacencyRow ChildRow = FindOrCreateAdjacencyRow(child);
             FindOrAddAdjacencyItem(ParentRow, child, weight);
+            FindOrAddAdjacencyItem(ChildRow, parent, weight);
         }
 
         /// <summary>
